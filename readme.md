@@ -1,10 +1,10 @@
-# 🤖 Python Rule-Based Chatbot
+#  Python Rule-Based Chatbot
 A simple Rule-Based Chatbot built using Python. This chatbot interacts with users through the command line by matching user input with predefined rules and responding accordingly.
 This project is beginner-friendly and demonstrates the use of Python fundamentals such as loops, conditional statements, string methods, and user input.
 
 ---
 
-# 📖 Project Overview
+#  Project Overview
 
 The Rule-Based Chatbot is a text-based chatbot that communicates with users using predefined responses.
 When a user types a message, the chatbot compares the input with a list of predefined conditions (`if`, `elif`, `else`) and returns the appropriate response.
@@ -12,7 +12,7 @@ The conversation continues until the user types **bye**, after which the chatbot
 
 ---
 
-# 🎯 Objectives
+#  Objectives
 
 - Python programming basics.
 - how conditional statements work.
@@ -23,7 +23,7 @@ The conversation continues until the user types **bye**, after which the chatbot
 
 ---
 
-# 🚀 Features
+#  Features
 
 - Greets the user.
 - Responds to common greetings.
@@ -35,7 +35,7 @@ The conversation continues until the user types **bye**, after which the chatbot
 
 ---
 
-# 🛠 Technologies Used
+#  Technologies Used
 
 - Python3
 - Command Line Interface (CLI)
@@ -44,7 +44,7 @@ The conversation continues until the user types **bye**, after which the chatbot
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```
 Rule-Based-Chatbot/
@@ -57,7 +57,7 @@ Rule-Based-Chatbot/
 ---
 
 
-# 📚 Python Concepts Used
+#  Python Concepts Used
 
 This project demonstrates the following Python concepts:
 
